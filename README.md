@@ -1,4 +1,4 @@
-# projecte3_grup6
+# Projecte3_grup6
 
 ## Participantes:
 
