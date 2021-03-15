@@ -1,5 +1,5 @@
 # projecte3_grup6
 
-## Participantes
+## Participantes:
 
 ### Joel Rodriguez , Gerard Chicote , Jordi Cervera y Carlos Erencia
